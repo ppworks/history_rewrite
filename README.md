@@ -1,3 +1,8 @@
+## Notice
+
+Use [BFG](https://rtyley.github.io/bfg-repo-cleaner/) instead of `git-filter-branch`.
+
+
 ## Usage
 
 ~~~
